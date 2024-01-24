@@ -1,4 +1,4 @@
-# [Open-Know-Where map of facilitites and machinery - Data Management Repository](https://map.internetofproduction.org/)
+# [Open-Know-Where map of facilities and machinery - Data Management Repository](https://map.internetofproduction.org/)
 
 [The Open-Know-Where map of facilitites and machinery](https://map.internetofproduction.org/) is a map of facilities developed by the Internet of Production Alliance [IOPA](http://internetofproduction.org/).
 
